@@ -5,21 +5,25 @@ div{
 }
 #bb2{
     background-image: url(../img/bb2.jpg);
+    background-size: 100%;
     float: right;
 
 }
 
 #bb3{
     background-image: url(../img/bb3.jpg);
+    background-size: 100%;
 
 }
 
 #bb4{
     background-image: url(../img/bb4.jpeg);
+    background-size: 100%;
 
 }
 
 #bb5{
     background-image: url(../img/bb5.jpg);
+    background-size: 100%;
 
 }
